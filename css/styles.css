@@ -1,0 +1,19 @@
+.content  {
+  width: 45%;
+  float:left;
+  margin: 2.5%;
+}
+
+.panel-body {
+  height: 150px;
+}
+
+.full-row {
+  border: 3px solid black;
+  clear: both;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
